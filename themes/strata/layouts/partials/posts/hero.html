@@ -1,0 +1,11 @@
+{{ $posts := partialCached "func/GetArticles" . "articles" }}
+{{ $post := index ($posts) 0 }}
+<section id="one">
+	<header class="major">
+		<h2>{{ $post.Params.title }}</h2>
+	</header>
+	<p>{{ $post.Params.excerpt }}</p>
+	<ul class="actions">
+		<li><a href="#" class="button">Learn More</a></li>
+	</ul>
+</section>

@@ -1,0 +1,8 @@
+<section>
+	<h1>{{ .Site.Params.welcome }}</h1>
+	{{ if .Params.image}}<img class="image fit" src="{{ .Site.BaseURL }}images/{{ .Params.image }}">{{ end }}
+	<h3 class="quote">
+		{{ .Params.quote }}
+		<span class="attribution">{{ .Params.attribution }}</span>
+	</h3>
+</section>

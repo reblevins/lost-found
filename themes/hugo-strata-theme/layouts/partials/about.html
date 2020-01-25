@@ -1,0 +1,8 @@
+<section>
+	<img class="image fit" src="{{ .Site.BaseURL }}images/not_all_who_wander.png">
+	<h3 class="quote">
+		Not until we are lost do we begin to understand ourselves.
+		<span class="attribution">Henry David Thoreau</span>
+	</h3>
+	{{ with .Site.Params.about.content }}<p>{{ . | markdownify }}</p>{{ end }}
+</section>

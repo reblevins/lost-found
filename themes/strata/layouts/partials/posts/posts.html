@@ -1,0 +1,15 @@
+<section id="two">
+	<h2>Latest Posts</h2>
+	<div class="row">
+		{{ range first 6 (where (where .Site.Pages.ByDate.Reverse ".Draft" false) "Section" "post") }}
+		<article class="col-6 col-12-xsmall work-item">
+			<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+			<h3>{{ .Params.title }}</h3>
+			<p>{{ .Params.excerpt }}</p>
+		</article>
+        {{ end }}
+	</div>
+	<ul class="actions">
+		<li><a href="#" class="button">Full Portfolio</a></li>
+	</ul>
+</section>
