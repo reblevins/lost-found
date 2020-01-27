@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "The Lost & Found"
-theme = "strata"
+theme = "novela"
 
 [params]
     welcome = "Welcome to the Lost & Found"

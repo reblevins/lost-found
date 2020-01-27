@@ -1,14 +1,14 @@
 +++
 date = "2018-09-25T04:18:33+00:00"
-description = "The beginning it where most things begin, but not this story. But, don't worry we'll get to the beginning in due time."
-draft = true
+excerpt = "The beginning it where most things begin, but not this story. But, don't worry we'll get to the beginning in due time."
+draft = false
 image = ""
 multipart = false
 part = ""
 subtitle = ""
 tags = []
 title = "In the beginning..."
-
+hero = "/images/alphabet-1679750_1920.jpg"
 +++
 _The beginning is where most things begin, but not this story. But, don't worry we'll get to the beginning in due time._
 
