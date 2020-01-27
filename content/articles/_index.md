@@ -6,4 +6,5 @@ quote = "Not until we are lost do we begin to understand ourselves."
 attribution = "Henry David Thoreau"
 image = ""
 excerpt = "Where are we?"
+hero = ""
 +++
