@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sin on The Lost &amp; Found</title>
+    <link>http://example.org/tags/sin/</link>
+    <description>Recent content in sin on The Lost &amp; Found</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 23:30:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/sin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Study in Scarlet</title>
+      <link>http://example.org/articles/let-s-talk-about-sin-baby/</link>
+      <pubDate>Tue, 10 Jul 2018 23:30:58 +0000</pubDate>
+      
+      <guid>http://example.org/articles/let-s-talk-about-sin-baby/</guid>
+      <description>This will be a 3-part dive into the subject of sin as seen throughout the Hebrew Bible and the New Testament.
+The beginning seems like as good a place as any to start, so here we go&amp;hellip;
+In the Beginning In the first three chapters of the Bible, in the book we call Genesis, we have two creation accounts. The first one is from Genesis 1:1 to the first half of 2:4, and the second one starts in the second half of verse 4 and continues until the end of Chapter 3.</description>
+    </item>
+    
+  </channel>
+</rss>

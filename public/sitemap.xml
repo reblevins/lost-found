@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-01-24T10:15:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/</loc>
+    <lastmod>2020-01-24T10:15:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/good-quotes/</loc>
+    <lastmod>2018-10-09T14:59:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/in-the-beginning/</loc>
+    <lastmod>2018-09-25T04:18:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/let-s-talk-about-sin-baby/</loc>
+    <lastmod>2018-07-10T23:30:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/redemption/</loc>
+    <lastmod>2018-07-10T23:30:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/salvation/</loc>
+    <lastmod>2018-07-10T23:30:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sin/</loc>
+    <lastmod>2018-07-10T23:30:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-07-10T23:30:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>

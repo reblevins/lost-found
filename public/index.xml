@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on The Lost &amp; Found</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Homes on The Lost &amp; Found</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2020 10:15:23 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good Quotes</title>
+      <link>http://example.org/articles/good-quotes/</link>
+      <pubDate>Tue, 09 Oct 2018 14:59:23 +0000</pubDate>
+      
+      <guid>http://example.org/articles/good-quotes/</guid>
+      <description>“I am not lost, for I know where I am. But however, where I am may be lost.” - A.A. Milne</description>
+    </item>
+    
+    <item>
+      <title>In the beginning...</title>
+      <link>http://example.org/articles/in-the-beginning/</link>
+      <pubDate>Tue, 25 Sep 2018 04:18:33 +0000</pubDate>
+      
+      <guid>http://example.org/articles/in-the-beginning/</guid>
+      <description>The beginning is where most things begin, but not this story. But, don&amp;rsquo;t worry we&amp;rsquo;ll get to the beginning in due time.
+For millennia, most people - shamans, priests, religious leaders, regular folk, astronomers/astrologers (for most of history these were the same profession) - just assumed that the universe was static, it had always existed and probably always would. Even into the modern day (from The Enlightenment onward), many scientists also assumed that the universe had always existed.</description>
+    </item>
+    
+    <item>
+      <title>A Study in Scarlet</title>
+      <link>http://example.org/articles/let-s-talk-about-sin-baby/</link>
+      <pubDate>Tue, 10 Jul 2018 23:30:58 +0000</pubDate>
+      
+      <guid>http://example.org/articles/let-s-talk-about-sin-baby/</guid>
+      <description>This will be a 3-part dive into the subject of sin as seen throughout the Hebrew Bible and the New Testament.
+The beginning seems like as good a place as any to start, so here we go&amp;hellip;
+In the Beginning In the first three chapters of the Bible, in the book we call Genesis, we have two creation accounts. The first one is from Genesis 1:1 to the first half of 2:4, and the second one starts in the second half of verse 4 and continues until the end of Chapter 3.</description>
+    </item>
+    
+  </channel>
+</rss>
