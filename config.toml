@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://reblevins.netlify.com/"
 languageCode = "en-us"
 title = "The Lost & Found"
 theme = "lost-found"
