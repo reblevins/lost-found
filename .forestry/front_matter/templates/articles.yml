@@ -1,0 +1,31 @@
+---
+label: Articles
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: image
+  label: image
+- type: boolean
+  name: multipart
+  label: multipart
+- type: text
+  name: part
+  label: part
+- type: text
+  name: subtitle
+  label: subtitle
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: file
+  name: hero
+  label: hero
