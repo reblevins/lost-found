@@ -18,7 +18,7 @@ For most Christians, the idea that the Old Testament sacrifices were for making 
 
 > God is holy and perfect. You are not. Therefore, God is angry at you, hates you even, and so he has to kill you. But, because he’s merciful, he’ll let you bring this animal to him and will have the animal killed instead of you.
 
-Thankfully for us, as our ill-conceived version of the story goes, Jesus steps in and takes our place. God kills Him instead of us, satisfying His, uh God's justice. Not Jesus-God but God-God who's in heaven. Ok, I'm being a bit cheeky now, but this does serve to illuminate some of the holes in this theory and also how confusing this whole thing can be for non-Christians.
+Thankfully for us - as the "traditional" version of the story goes - Jesus steps in and takes our place. God kills Him instead of us, satisfying His, uh God's justice. Not Jesus-God but God-God who's in heaven. Ok, I'm being a bit cheeky now, but this does serve to illuminate some of the holes in this theory and also how confusing this whole thing can be for non-Christians.
 
 According to the Judaism 101 website:
 
